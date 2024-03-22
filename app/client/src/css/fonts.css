@@ -216,13 +216,6 @@
   font-style: normal;
 }
 
-/* Raleway Bold */
-@font-face {
-  font-family: 'Raleway';
-  src: local('Raleway-Bold'), url('../assets/fonts/raleway/Raleway-Bold.ttf') format('truetype');
-  font-weight: bold;
-  font-style: normal;
-}
 
 /* Raleway ExtraBold */
 @font-face {
@@ -463,5 +456,3 @@
   font-weight: normal;
   font-style: normal;
 }
-
-
