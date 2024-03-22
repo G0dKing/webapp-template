@@ -1,7 +1,8 @@
 import { } from 'react'
 import '../css/styles.css'
 
-function Home() {
+const Home = () => {
+
    return (
     <>
        <div>
